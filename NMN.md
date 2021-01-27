@@ -1,5 +1,4 @@
-# NMN 見證蒐集
-
+### NMN 見證蒐集
 
 | 名稱 | 分類 | 影片連結 |
 | --- | --- | --- |
@@ -10,5 +9,19 @@
 | 江西南昌 58歲 微微 | 更年期、<br>關節炎、<br>心臟絞痛、<br>皺紋 | https://www.youtube.com/watch?v=u1tXEos5LlE |
 | 書法大師 跌倒再站起來 | 骨質疏鬆 | https://www.youtube.com/watch?v=kwT7tdcwTZI |
 
+### NMN 新聞報導
+
+| 名稱 | 連結 |
+| --- | --- |
+| 美研究「抗老丸」問世！NMN引熱議 | https://www.setn.com/news.aspx?newsid=888160 |
+| 抗衰老藥物商機將引爆 | http://www.cpmda.org.tw/news_show_n1.php?news_id=8472 |
+
+### NMN 期刊論文
+
+| 名稱 | 連結 |
+| --- | --- |
+| Targeting NAMPT as a therapeutic strategy against stroke | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6613878/ |
+
+---
 
 > 想了解更多 NMN 產品資訊，請洽 激活客服 0907-002980
