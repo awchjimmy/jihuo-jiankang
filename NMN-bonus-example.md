@@ -48,7 +48,20 @@
 | David | $0 | $0 | $0 |
 | Elisha | $0 | $0 | $0 |
 
+#### B 推薦 `中級合夥人` F
+
+| 帳號 | 直推 | 碰局 | 累計 |
+|---|---|---|---|
+| Jimmy | $1200 | `左0` `右0` $3600 | $27600 |
+| Alice | $0 | `左0` `右0` $0 | $14880 |
+| Benjamin | $6000 | `左0` `右0` $2880 | $14880 |
+| Charles | $0 | $0 | $0 |
+| David | $0 | $0 | $0 |
+| Elisha | $0 | $0 | $0 |
+| Fiona | $0 | $0 | $0 |
+
 ---
 
 備註
 
+[![](https://mermaid.ink/img/eyJjb2RlIjoiZ3JhcGggVERcbkppbW15IC0tPiBBbGljZVtcIkFsaWNlIChKaW1teSlcIl1cbkppbW15IC0tPiBCZW5qYW1pbltcIkJlbmphbWluIChKaW1teSlcIl1cblxuQWxpY2UgLS0-IENoYXJsZXNbXCJDaGFybGVzIChBbGljZSlcIl1cbkFsaWNlIC0tPiBEYXZpZFtcIkRhdmlkIChBbGljZSlcIl1cblxuQmVuamFtaW4gLS0-IEVsaXNoYVtcIkVsaXNoYSAoQmVuamFtaW4pXCJdXG5CZW5qYW1pbiAtLT4gRmlvbmFbXCJGaW9uYSAoQmVuamFtaW4pXCJdIiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQifSwidXBkYXRlRWRpdG9yIjpmYWxzZX0)](https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbkppbW15IC0tPiBBbGljZVtcIkFsaWNlIChKaW1teSlcIl1cbkppbW15IC0tPiBCZW5qYW1pbltcIkJlbmphbWluIChKaW1teSlcIl1cblxuQWxpY2UgLS0-IENoYXJsZXNbXCJDaGFybGVzIChBbGljZSlcIl1cbkFsaWNlIC0tPiBEYXZpZFtcIkRhdmlkIChBbGljZSlcIl1cblxuQmVuamFtaW4gLS0-IEVsaXNoYVtcIkVsaXNoYSAoQmVuamFtaW4pXCJdXG5CZW5qYW1pbiAtLT4gRmlvbmFbXCJGaW9uYSAoQmVuamFtaW4pXCJdIiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQifSwidXBkYXRlRWRpdG9yIjpmYWxzZX0)
