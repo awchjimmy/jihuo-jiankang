@@ -14,7 +14,7 @@
 | 名稱 | 連結 |
 | --- | --- |
 | 美研究「抗老丸」問世！NMN引熱議 | https://www.setn.com/news.aspx?newsid=888160 |
-| 抗衰老藥物商機將引爆 | http://www.cpmda.org.tw/news_show_n1.php?news_id=8472 |
+| 中華民國製藥發展協會<br>抗衰老藥物商機將引爆 | http://www.cpmda.org.tw/news_show_n1.php?news_id=8472 |
 
 ### NMN 期刊論文
 
