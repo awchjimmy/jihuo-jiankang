@@ -27,11 +27,19 @@
 | Benjamin | $0 | $0 | $0 |
 | Charles | $0 | $0 | $0 |
 
+#### A 推薦 `中級合夥人` D
+
+| 帳號 | 直推 | 碰局 | 累計 |
+|---|---|---|---|
+| Jimmy | $1200 | `左0` `右0` $3600 | $20400 |
+| Alice | $6000 | `左0` `右0` $2880 | $14880 |
+| Benjamin | $0 | $0 | $0 |
+| Charles | $0 | $0 | $0 |
+| David | $0 | $0 | $0 |
+
 
 
 ---
 
 備註
-
-[![](https://mermaid.ink/img/eyJjb2RlIjoiZ3JhcGggVERcbkppbW15IC0tPiBBbGljZVtcIkFsaWNlIChKaW1teSlcIl1cbkppbW15IC0tPiBCZW5qYW1pbltcIkJlbmphbWluIChKaW1teSlcIl1cblxuQWxpY2UgLS0-IENoYXJsZXNbXCJDaGFybGVzIChBbGljZSlcIl0iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9LCJ1cGRhdGVFZGl0b3IiOmZhbHNlfQ)](https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbkppbW15IC0tPiBBbGljZVtcIkFsaWNlIChKaW1teSlcIl1cbkppbW15IC0tPiBCZW5qYW1pbltcIkJlbmphbWluIChKaW1teSlcIl1cblxuQWxpY2UgLS0-IENoYXJsZXNbXCJDaGFybGVzIChBbGljZSlcIl0iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9LCJ1cGRhdGVFZGl0b3IiOmZhbHNlfQ)
 
